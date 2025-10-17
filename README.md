@@ -18,7 +18,7 @@ This project satisfies all requirements for the **Stage 0 Backend Task**, includ
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/Usenmfon/dynamic-profile-endpoint.git
+git clone https://github.com/Edacynthia/php-profile-endpoint.git
 cd php-profile-endpoint
 ```
 
